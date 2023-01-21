@@ -1,7 +1,7 @@
 ## Hey programmers 👋, this is Juno !
 #### About me 👨‍💻
 
-- 🏦 I'm a <b>Software Engineer</b> working for a <b>digital gaming infrastructure team</b>
+- 🏦 I'm a <b>Fullstack Software Engineer</b>
 
 - 📖 I'm currently reading <b>Elon Musk:Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance</b>
 
