@@ -37,6 +37,3 @@
 
 ## Juno's GitHub stats
 ![Juno Goh's GitHub stats](https://github-readme-stats.vercel.app/api?username=juno-the-programmer&show_icons=true&theme=dark)
-
-## Juno's LeetCode [profile](https://leetcode.com/junoinbox)
-[![Juno's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=junoinbox&theme=dark)](https://leetcode.com/junoinbox)
